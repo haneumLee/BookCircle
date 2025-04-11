@@ -1,10 +1,15 @@
-Business Source License 1.1
+Copyright (c) 2025 BookCircle Project
 
-Parameter: Use Limitation Date = 2028-01-01
+This source code is proprietary and confidential.
 
-Licensor: [Your Name or Organization]
-Licensed Work: The BookCircle Project (https://github.com/yourname/bookcircle)
+You may:
+- View the source code for personal learning and evaluation
+- Fork this repository for non-commercial exploration
 
-The Licensed Work is provided under the Business Source License 1.1. Use of the Licensed Work is governed by this license. Under the terms of this license, the Licensed Work may be used only for non-production purposes until the Use Limitation Date. On the Use Limitation Date, the Licensed Work will be made available under the GPL Version 2.0 or later.
+You may NOT:
+- Use, deploy, or modify this code for any commercial or production purposes
+- Repackage or redistribute any part of this project
 
-See https://mariadb.com/bsl11 for full terms.
+All rights are reserved by the project owner.
+
+For inquiries regarding commercial licensing, please open a GitHub issue or contact via the project's official channel (to be announced).
